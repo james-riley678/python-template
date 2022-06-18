@@ -1,0 +1,10 @@
+#
+# .gitignore: This file is a list of extensions you do not want to commit to your git repository.
+# Examples include the list below.
+#
+
+*.log
+*.csv
+*.xlsx
+*.pyc
+*.tgz

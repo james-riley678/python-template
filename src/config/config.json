@@ -1,0 +1,14 @@
+{
+    "database" : {
+        "host" : "",
+        "database" : "",
+        "port" : "",
+        "user" : "",
+        "password" : "",
+        "poolSize" : 2
+    },    
+    "logging" : {
+        "logger_location" : "python-template.log",
+        "logger_level" : "INFO"
+    }
+}
